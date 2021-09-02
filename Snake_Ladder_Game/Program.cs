@@ -94,7 +94,7 @@ namespace Snake_Ladder_Game
                     Console.WriteLine("Reduce dice :: "+position_one);
                 }
             }
-            Console.WriteLine("Counter is : " + count_one);
+            Console.WriteLine("Repetations(Counter) of Dice for the win is :" + count_one);
         }
     }
 }
